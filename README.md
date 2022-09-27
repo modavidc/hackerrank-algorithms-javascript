@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  This repository contains solutions to the<strong>Hackerrank</strong> practice algorithms, using <strong>Javascript</strong>.
+  This repository contains solutions to the <strong>Hackerrank</strong> practice algorithms, using <strong>Javascript</strong>.
   <br />
   <br />
   Take a look, play and have fun with this.
