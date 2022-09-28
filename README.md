@@ -32,7 +32,7 @@
 
 |          Subdomain          |                                                          Challenge                                                           | Score  | Difficulty |                                             Solution                                              |
 |:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:----------:|:-------------------------------------------------------------------------------------------------:|
-|        Warmup               | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)                                                       |   1    |    Easy    | [solution.js](warmup/solve-me-first.js)                                                           |
+|        Arrays               | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                                                               |   10   |    Easy    | [solution.js](arrays/arrays-ds.js)                                                           |
 
 ## 👤 Author
 
