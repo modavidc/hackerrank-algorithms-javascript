@@ -34,6 +34,7 @@
 |:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:----------:|:-------------------------------------------------------------------------------------------------:|
 |        Arrays               | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                                                               |   10   |    Easy    | [solution.js](arrays/arrays-ds.js)                                                                |
 |        Arrays               | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)                                                   |   20   |    Easy    | [solution.js](arrays/left-rotation.js)                                                            |
+|        Arrays               | [Left Rotation](https://www.hackerrank.com/challenges/dynamic-array)                                                         |   15   |    Easy    | [solution.js](arrays/dynamic-array.js)                                                            |
 
 ## 👤 Author
 
